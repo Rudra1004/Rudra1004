@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Rudrani</h1>
+<h3 align="center">Computer Science Engineering Student | Web Development | C++ | Python | AI Enthusiast</h3>
 
-<!--
-**Rudra1004/Rudra1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 CSE student passionate about technology and creativity  
+- 💻 Skilled in **HTML**, **CSS**, and **C**  
+- 📚 Currently learning **C++** and **Python**  
+- 📝 Expert in **Prompt Writing** for AI tools  
+- 🎨 Love working with **Animation** and exploring **AI-powered creativity**  
+- 🌱 Constantly improving my skills and exploring real-world applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+- **Languages:** HTML, CSS, C, C++ (Learning), Python (Learning)  
+- **Special Skills:** Prompt Writing
+- **Tools & Platforms:** GitHub, VS Code, AI Tools (ChatGPT, Midjourney, etc.)  
+- **Interests:** AI, Web Apps, Creative Coding, Digital Art  
+
+---
+
+### Contact
+- **Email:** rudrani11.12.19@gmail.com 
+
+---
+
+⭐ *Thanks for visiting my profile!*
