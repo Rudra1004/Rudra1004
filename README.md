@@ -1,28 +1,37 @@
-# Cybersecurity Fundamentals
+# Hi, I'm Rudrani 👋
 
-This repository contains my hands-on practice and notes while learning cybersecurity. It includes Linux usage, networking basics, and system-level concepts used in security.
+🎓 B.Tech CSE (Cybersecurity) Student  
+💻 Focused on Cybersecurity, Networking, and System Fundamentals  
 
-## Areas Covered
+---
 
-### 1. Linux for Cybersecurity
-- File management and navigation
-- Permissions and ownership
-- User management
-- Process monitoring
+## 🔐 About Me
+- Cybersecurity student with strong interest in ethical hacking  
+- Strong foundation in Networking and Operating Systems  
+- Hands-on experience with Linux, Kali Linux, and command-line tools  
 
-### 2. Networking Fundamentals
-- OSI Model
-- TCP/IP basics
-- IP addressing & subnetting
-- Common protocols (HTTP, DNS, etc.)
+---
 
-### 3. System & Security Basics
-- Understanding users and access control
-- Basic system commands
-- Introduction to security concepts
+## 🧠 Skills
+- Programming: C, C++  
+- Web: HTML, CSS  
+- Systems: Linux, Kali Linux, Windows CMD  
+- Networking: TCP/IP, OSI Model, Subnetting, Protocols  
 
-## Practice Approach
-I use Linux (including Kali Linux) and command-line tools to understand how systems work, which is essential for cybersecurity.
+---
 
-## Goal
-To build strong foundational knowledge required for ethical hacking, network security, and system security.
+## 📚 Currently Learning
+- Cybersecurity fundamentals  
+- Linux & system security  
+- Networking concepts  
+
+---
+
+## 🎯 Goal
+To gain practical experience in cybersecurity and build strong real-world skills through internships.
+
+---
+
+## 🔗 Connect with Me
+- GitHub: https://github.com/Rudra1004  
+- LinkedIn: https://www.linkedin.com/in/rudrani-nalavade-907b7432a/
