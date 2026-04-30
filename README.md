@@ -1,18 +1,28 @@
-# Linux Basics
+# Cybersecurity Fundamentals
 
-This repository contains my hands-on practice of Linux commands and system operations, focused on building strong fundamentals for cybersecurity.
+This repository contains my hands-on practice and notes while learning cybersecurity. It includes Linux usage, networking basics, and system-level concepts used in security.
 
-## Topics Covered
-- File and directory management
-- Permissions (chmod, chown)
+## Areas Covered
+
+### 1. Linux for Cybersecurity
+- File management and navigation
+- Permissions and ownership
 - User management
-- Basic command-line operations
+- Process monitoring
 
-## Commands Practiced
-- ls, cd, pwd
-- mkdir, rm, cp, mv
-- chmod, chown
-- cat, nano
+### 2. Networking Fundamentals
+- OSI Model
+- TCP/IP basics
+- IP addressing & subnetting
+- Common protocols (HTTP, DNS, etc.)
 
-## Purpose
-To strengthen Linux fundamentals required for cybersecurity and system administration.
+### 3. System & Security Basics
+- Understanding users and access control
+- Basic system commands
+- Introduction to security concepts
+
+## Practice Approach
+I use Linux (including Kali Linux) and command-line tools to understand how systems work, which is essential for cybersecurity.
+
+## Goal
+To build strong foundational knowledge required for ethical hacking, network security, and system security.
