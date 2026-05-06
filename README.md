@@ -50,16 +50,6 @@
 
 ---
 
-## 📂 Repositories
-
-| Repo | Description |
-|------|-------------|
-| [fake-wifi-detector](https://github.com/Rudra1004/fake-wifi-detector) | 🛡️ Real-time Evil Twin & rogue AP detection tool — Python + Tkinter |
-| [cybersecurity-fundamentals](https://github.com/Rudra1004/cybersecurity-fundamentals) | 📚 Notes and practice on cybersecurity concepts |
-| [networking-fundamentals](https://github.com/Rudra1004/networking-fundamentals) | 🌐 Networking concepts for cybersecurity — TCP/IP, OSI, Subnetting |
-
----
-
 ## 📊 GitHub Stats
 
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra1004&show_icons=true&theme=radical&hide_border=true)
